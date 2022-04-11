@@ -14,7 +14,7 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="mainNav">
             <div class="container px-4">
-                <a class="navbar-brand" href="#page-top"> Add your brand name here </a>
+                <a class="navbar-brand" href="#page-top"> MeloDicted </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
@@ -30,8 +30,8 @@
         <!-- Header-->
         <header class="bg-dark bg-gradient text-white">
             <div class="container px-4 text-center">
-                <h1 class="fw-bolder">Welcome to Melomaniac</h1>
-                <p class="lead">Add a short description here</p>
+                <h1 class="fw-bolder">Welcome to MeloDicted</h1>
+                <p class="lead"><i>Music is the outburst of the soul</i></p>
                 
             </div>
         </header>
@@ -41,16 +41,48 @@
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
                         <!-- Song title and singer-->
-                        <h2 class="text-primary">Song Title</h2>
-                        <p class="lead">Artist name</p>
+                        <h2 class="text-primary">The Night We Met</h2>
+                        <p class="lead"><b>Lord Huron</b></p>
                         <!-- Lyrics hear -->
+                        <?php
+
+                            echo "<p> I am not the only traveler </p>";
+                            echo "<p> Who has not repaid his debt </p>";
+                            echo "<p> I've been searching for a trail to follow again </p>";
+                            echo "<p> Take me back to the night we met </p>";
+                            echo "<p> </p>";
+
+                            echo "<p> And then I can tell myself </p>";
+                            echo "<p> What the hell I'm supposed to do </p>";
+                            echo "<p> And then I can tell myself </p>";
+                            echo "<p> Not to ride along with you </p>";
+                            echo "<br/>";
+
+                            echo "<p> I had all and then most of you, some and now none of you </p>";
+                            echo "<p> Take me back to the night we met </p>";
+                            echo "<p> I don't know what I'm supposed to do, haunted by the ghost of you </p>";
+                            echo "<p> Oh, take me back to the night we met </p>";
+                            echo "<br/>";
+
+                            echo "<p> When the night was full of terrors </p>";
+                            echo "<p> And your eyes were filled with tears </p>";
+                            echo "<p> When you had not touched me yet </p>";
+                            echo "<p> Oh, take me back to the night we met </p>";
+                            echo "<br/>";
+
+                            echo "<p> I had all and then most of you, some and now none of you </p>";
+                            echo "<p> Take me back to the night we met </p>";
+                            echo "<p> I don't know what I'm supposed to do, haunted by the ghost of you </p>";
+                            echo "<p> Take me back to the night we met </p>";
+                        ?>
+
                     </div>
                 </div>
             </div>
         </section>
 
         <footer class="py-3 bg-danger">
-            <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. your full name</p></div>
+            <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. Gerson O. Pantoja</p></div>
         </footer>
         <!-- Bootstrap core JS-->
         <script src="js/bootstrap.bundle.min.js"></script>
