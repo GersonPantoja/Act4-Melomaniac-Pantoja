@@ -14,7 +14,7 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="mainNav">
             <div class="container px-4">
-                <a class="navbar-brand" href="#page-top"> Add your brand name here </a>
+                <a class="navbar-brand" href="#page-top"> MeloDicted </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
@@ -30,8 +30,8 @@
         <!-- Header-->
         <header class="bg-dark bg-gradient text-white">
             <div class="container px-4 text-center">
-                <h1 class="fw-bolder">Welcome to Melomaniac</h1>
-                <p class="lead">Add a short description here</p>
+                <h1 class="fw-bolder">Welcome to MeloDicted</h1>
+                <p class="lead"><i>Music is an outburst of the soul</i></p>
                 
             </div>
         </header>
@@ -41,16 +41,75 @@
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
                         <!-- Song title and singer-->
-                        <h2 class="text-primary">Song Title</h2>
-                        <p class="lead">Artist name</p>
+                        <h2 class="text-primary">How deep is your love</h2>
+                        <p class="lead">Bee Gees</p>
                         <!-- Lyrics hear -->
+                        <?php
+                            echo "<p> I know your eyes in the morning sun </p>";
+                            echo "<p> I feel you touch me in the pouring </p>";
+                            echo "<p> And the moment that you wander far from me </p>";
+                            echo "<p> I wanna feel you in my arms again </p>";
+                            echo "<br/>";
+
+                            echo "<p> And you come to me on a summer breeze </p>";
+                            echo "<p> Keep me warm in your love then you softly breeze </p>";
+                            echo "<p> And it's me you need to show </p>";
+                            echo "<p> How deep is your love </p>";
+                            echo "<br/>";
+
+                            echo "<p> How deep is your love </p>";
+                            echo "<p> How deep is your love </p>";
+                            echo "<p> I really mean to learn </p>";
+                            echo "<p> 'Cause we're living in the world of fools </p>";
+                            echo "<p> Breaking us down </p>";
+                            echo "<p> When they all should let us be </p>";
+                            echo "<p> We belong to you and me </p>";
+                            echo "<br/>";
+
+                            echo "<p> I believe in you </p>";
+                            echo "<p> You know the door to my very soul </p>";
+                            echo "<p> You're the light in my deepest darkest hour </p>";
+                            echo "<p> You're my saviour when I fall </p>";
+                            echo "<p> And you may not think </p>";
+                            echo "<p> I care for you </p>";
+                            echo "<p> When you know down inside </p>";
+                            echo "<p> That I really do </p>";
+                            echo "<p> And it's me you need to show </p>";
+                            echo "<p> How deep is your love </p>";
+                            echo "<br/>";
+
+                            echo "<p> How deep is your love </p>";
+                            echo "<p> How deep is your love </p>";
+                            echo "<p> I really mean to learn </p>";
+                            echo "<p> 'Cause we're living in the world of fools </p>";
+                            echo "<p> Breaking us down </p>";
+                            echo "<p> When they all should let us be </p>";
+                            echo "<p> We belong to you and me </p>";
+                            echo "<br/>";
+
+                            echo "<p> And you come to me on a summer breeze </p>";
+                            echo "<p> Keep me warm in your love then you softly leave </p>";
+                            echo "<p> And it's me you need to know </p>";
+                            echo "<p>  How deep is your love </p>";
+                            echo "<br/>";
+
+                            echo "<p> How deep is your love </p>";
+                            echo "<p> How deep is your love </p>";
+                            echo "<p> I really mean to learn </p>";
+                            echo "<p> 'Cause we're living in the world of fools </p>";
+                            echo "<p> Breaking us down </p>";
+                            echo "<p> When they all should let us be </p>";
+                            echo "<p> We belong to you and me </p>";
+                            echo "<p> [Repeat fading out]</p>"
+                        ?>
+
                     </div>
                 </div>
             </div>
         </section>
 
         <footer class="py-3 bg-danger">
-            <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. your full name</p></div>
+            <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. Gerson O. Pantoja</p></div>
         </footer>
         <!-- Bootstrap core JS-->
         <script src="js/bootstrap.bundle.min.js"></script>
