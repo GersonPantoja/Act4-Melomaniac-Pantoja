@@ -30,8 +30,8 @@
         <!-- Header-->
         <header class="bg-dark bg-gradient text-white">
             <div class="container px-4 text-center">
-                <h1 class="fw-bolder">Welcome to Melomaniac</h1>
-                <p class="lead">Add a short description here</p>
+                <h1 class="fw-bolder">Welcome to MeloDicted</h1>
+                <p class="lead"><i>Music is an outburst of the soul</i></p>
                 
             </div>
         </header>
@@ -57,7 +57,7 @@
         </section>
 
         <footer class="py-3 bg-danger">
-            <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. your full name</p></div>
+            <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. Gerson O. Pantoja</p></div>
         </footer>
         <!-- Bootstrap core JS-->
         <script src="js/bootstrap.bundle.min.js"></script>
