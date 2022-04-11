@@ -31,7 +31,7 @@
         <header class="bg-dark bg-gradient text-white">
             <div class="container px-4 text-center">
                 <h1 class="fw-bolder">Welcome to MeloDicted</h1>
-                <p class="lead">Music is an outburtst of the soul</p>
+                <p class="lead"><i>Music is an outburst of the soul</i></p>
                 
             </div>
         </header>
@@ -42,12 +42,12 @@
                     <div class="col-lg-12 text-center">
                         <!-- Song title and singer-->
                         <h2 class="text-primary">Manila</h2>
-                        <p class="lead">Young Cocoa</p>
+                        <p class="lead"><b>Young Cocoa</b></p>
                         <!-- Lyrics hear -->
                         <?php
 
                             echo "<p> Yeah, uh, woah, yeah, ayy </p>";
-                            echo "<br/>"
+                            echo "<br/>";
 
                             echo "<p> Urban Jungle, steppin' on a puddle </p>";
                             echo "<p> Mind race ejaculate the thoughts that's in the bubble </p>";

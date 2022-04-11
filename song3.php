@@ -41,8 +41,8 @@
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
                         <!-- Song title and singer-->
-                        <h2 class="text-primary">How deep is your love</h2>
-                        <p class="lead">Bee Gees</p>
+                        <h2 class="text-primary">How Deep Is Your Love</h2>
+                        <p class="lead"><b>Bee Gees</b></p>
                         <!-- Lyrics hear -->
                         <?php
                             echo "<p> I know your eyes in the morning sun </p>";
