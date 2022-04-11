@@ -41,9 +41,16 @@
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
                         <!-- Song title and singer-->
-                        <h2 class="text-primary">Song Title</h2>
-                        <p class="lead">Artist name</p>
-                        <!-- Lyrics hear -->
+                        <h2 class="text-primary">Song Titles</h2>
+                        <!-- <p class="lead">Artist name</p> -->
+                        <?php
+                            echo "<br/>";
+                            echo "<p><b>1. Habang Buhay by Zack Tabudlo </b></p>";
+                            echo "<p><b>2. Anyone by Justin Bieber </b></p>";
+                            echo "<p><b>3. How deep is your love by Bee Gees </b></p>"; 
+                            echo "<p><b>4. Manila by Young Cocoa </b></p>";
+                            echo "<p><b>5. The Night We Met by Lord Huron </b></p>";
+                        ?>
                     </div>
                 </div>
             </div>
