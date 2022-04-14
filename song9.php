@@ -44,8 +44,77 @@
                     <div class="col-lg-12 text-center">
                         <!-- Song title and singer-->
                         <h2 class="text-success">Sunflower</h2>
-                        <p class="lead">Post Malone, Swae Lee</p>
+                        <p class="lead">Post Malone and Swae Lee</p>
                         <?php
+                            echo "<p> [Swae Lee] </p>";
+                            echo "<p> Ayy, ayy, ayy, ayy (ooh)</p>";
+                            echo "<p> Ooh, ooh, ooh, ohh (ooh)</p>";
+                            echo "<p> Ayy, ayy</p>";
+                            echo "<p> Ooh, ooh, ooh, ooh </p>";
+                            echo "<br/>";
+
+                            echo "<p> Needles to say, I keep in check </p>";
+                            echo "<p> She was a bad-bad, nevertheless (yeah) </p>";
+                            echo "<p> Callin' it quits now, baby, I'm a wreck (wreck) </p>";
+                            echo "<p> Crash at my place, baby, you're a wreck (wreck) </p>";
+                            echo "<br/>";
+
+                            echo "<p> Needles to say, I keep in check</p>";
+                            echo "<p> She was a bad-bad, nevertheless </p>";
+                            echo "<p> Callin' it quits now, baby, I'm a wreck </p>";
+                            echo "<p> Crash at my place, baby, you're a wreck </p>";
+                            echo "<br/>";
+
+                            echo "<p> Thinkin' in a bad way, losin' your grip </p>";
+                            echo "<p> Screamin' at my face, baby, don't trip </p>";
+                            echo "<p> Someone took a big L, don't know how that felt </p>";
+                            echo "<p> Lookin' at you sideways, party on tilt </p>";
+                            echo "<br/>";
+
+                            echo "<p> Ooh, ooh</p>";
+                            echo "<p> Some things you just can't refuse </p>";
+                            echo "<p> She wanna ride me like a cruise </p>";
+                            echo "<p> And I'm not tryna lose </p>";
+                            echo "<br/>";
+
+                            echo "<p> Then you're left in the dust </p>";
+                            echo "<p> Unless stuck by ya </p>";
+                            echo "<p> You're a sunflower </p>";
+                            echo "<p> I think your love would be too much </p>";
+                            echo "<p> Or you'll be left in the dust </p>";
+                            echo "<p> Unless I stuck by ya </p>";
+                            echo "<p> You're a sunflower </p>";
+                            echo "<p> You're a sunflower </p>";
+                            echo "<br/>";
+
+                            echo "<p>[Post Malone]</p>";
+                            echo "<p> Every time I'm leavin' on you </p>";
+                            echo "<p> You don't make it easy, no, no </p>";
+                            echo "<p> Wish I could be there for you </p>";
+                            echo "<p> Give me a reason to, oh, oh </p>";
+                            echo "<br/>";
+
+                            echo "<p> Every time I'm walkin' out </p>";
+                            echo "<p> I can hear you tellin' me to turn around </p>";
+                            echo "<p> Fightin' for my trust and you won't back down </p>";
+                            echo "<p> Even if we gotta risk it all right now, oh</p>";
+                            echo "<br/>";
+
+                            echo "<p> I know you're scared of the unknown (-known) </p>";
+                            echo "<p> You don'want to be alone (alone) </p>";
+                            echo "<p> I know I always come and go (and go) </p>";
+                            echo "<p> But it's out of my control </p>";
+                            echo "<br/>";
+
+                            echo "<p> And you'll be left in the dust </p>";
+                            echo "<p> Unless I stuck by ya </p>";
+                            echo "<p> You're a sunflower </p>";
+                            echo "<p> I think your love would be too much </p>";
+                            echo "<p> Or you'll be left in the dust </p>";
+                            echo "<p> Unless I stuck by ya </p>";
+                            echo "<p> You're a sunflower </p>";
+                            echo "<p> You're a sunflower </p>";
+                            echo "<p> Yeah </p>";
 
                         ?>
                     </div>
