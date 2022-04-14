@@ -46,6 +46,41 @@
                         <h2 class="text-success">Pleaser</h2>
                         <p class="lead">Wallows</p>
                         <?php
+                            echo "<p> You're talking while you're fast asleep</p>";
+                            echo "<p> As I walk slowly from your house </p>";
+                            echo "<p> Back in your room remain the words </p>";
+                            echo "<p> I wanna say to you, but couldn't leave my mouth </p>";
+                            echo "<br/>";
+
+                            echo "<p> Does it come as a surprise? </p>";
+                            echo "<p> Language of averted eyes </p>";
+                            echo "<p> Silence is what I do best </p>";
+                            echo "<p> Still I hear it all </p>";
+                            echo "<p> Wasting time around my head </p>";
+                            echo "<p> So I talk my self instead </p>";
+                            echo "<br/>";
+
+                            echo "<p> Sitting out the weekend </p>";
+                            echo "<p> Couldn't do it again </p>";
+                            echo "<p> Say you want it right now </p>";
+                            echo "<p> But I wouldn't know how </p>";
+                            echo "<p> It's something that I can't do </p>";
+                            echo "<p> Then what am I supposed to? </p>";
+                            echo "<p> Quite the people pleaser </p>";
+                            echo "<p> If only I could please her </p>";
+                            echo "<br/>";
+
+                            echo "<p> Indecisive feelings of enjoyment </p>";
+                            echo "<p> Hold that thought I think I need a moment </p>";
+                            echo "<p> I'm aware that's something I should tell you </p>";
+                            echo "<p> But my voice annoys me </p>";
+                            echo "<p> Bite my tongue off with a smile </p>";
+                            echo "<p> I can feel it anymore </p>";
+                            echo "<p> Cause recently the line is blurred </p>";
+                            echo "<p> Between depression and bliss</p>";
+                            echo "<br/>";
+
+
 
                         ?>
                     </div>
