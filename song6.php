@@ -46,7 +46,70 @@
                         <h2 class="text-success">Top Of The World</h2>
                         <p class="lead">The Score</p>
                         <?php
- 
+                            
+                            echo "<p> I feel it in my bones </p>";
+                            echo "<p> The way I hit the lows </p>";
+                            echo "<p> Everyday felt like a rollercoaster </p>";
+                            echo "<p> Consumed by all the noise </p>";
+                            echo "<p> I had to make a choice </p>";
+                            echo "<p> I threw my demons over my shoulder </p>";
+                            echo "<p> (Ah-ah, ah-ah-ah, ah-ah-I)</p>";
+                            echo "<p> Got my blood, got my blood on fire </p>";
+                            echo "<p> (Ah-ah, ah-ah-ah, ah-ah-I) </p>";
+                            echo "<p> </p>";
+                            echo "<br/>";
+
+                            echo "<p> I been waiting for this all my life </p>";
+                            echo "<p> Good things never come to those who wait in line </p>";
+                            echo "<p> I been breaking these walls in my mind and whoo...</p>";
+                            echo "<p> They're breaking down </p>";
+                            echo "<p> I'm on top of the world </p>";
+                            echo "<p> (Woah-oh-oh-oh-oh) </p>";
+                            echo "<p> I'm on top of the world </p>";
+                            echo "<p> (Woah-oh-oh-oh-oh) </p>";
+                            echo "<p> I'm on top of the... </p>";
+                            echo "<br/>";
+
+                            echo "<p> I had to change the view </p>";
+                            echo "<p> So packed a parachute </p>";
+                            echo "<p> And started climbing mountains that I had made up</p>";
+                            echo "<p> I was afraid of heights </p>";
+                            echo "<p> Until I learned to fly </p>";
+                            echo "<p> Now I'm starting at the ground from way up </p>";
+                            echo "<p> (Ah-ah, ah-ah-ah, ah-ah-I) </p>";
+                            echo "<p> Got my blood, got my blood on fire </p>";
+                            echo "<p> (Ah-ah, ah-ah-ah, ah-ah-I)</p>";
+                            echo "<p> And it takes me higher </p>";
+                            echo "<br/>";
+
+                            echo "<p> I been waiting for this all my life </p>";
+                            echo "<p> Good things never come to those who wait in line </p>";
+                            echo "<p> I been breaking these walls in my mind and whoo...</p>";
+                            echo "<p> They're breaking down </p>";
+                            echo "<p> I'm on top of the world </p>";
+                            echo "<p> (Woah-oh-oh-oh-oh) </p>";
+                            echo "<p> I'm on top of the world </p>";
+                            echo "<p> (Woah-oh-oh-oh-oh) </p>";
+                            echo "<p> I'm on top of the... </p>";
+                            echo "<br/>";
+
+                            echo "<p> I been waiting for this all my life </p>";
+                            echo "<p> Good things never come to those who wait in line </p>";
+                            echo "<p> I been breaking these walls in my mind and...</p>";
+                            echo "<p> I'm on top of the world </p>";
+                            echo "<br/>";
+
+                            echo "<p> I been waiting for this all my life </p>";
+                            echo "<p> Good things never come to those who wait in line </p>";
+                            echo "<p> I been breaking these walls in my mind and whoo...</p>";
+                            echo "<p> They're breaking down </p>";
+                            echo "<p> I'm on top of the world </p>";
+                            echo "<p> (Woah-oh-oh-oh-oh) </p>";
+                            echo "<p> I'm on top of the world </p>";
+                            echo "<p> (Woah-oh-oh-oh-oh) </p>";
+                            echo "<p> I'm on top of the... </p>";
+                            echo "<br/>";
+
                         ?>
                     </div>
                 </div>
