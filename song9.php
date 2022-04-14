@@ -43,8 +43,8 @@
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
                         <!-- Song title and singer-->
-                        <h2 class="text-success">Song Titles</h2>
-                        <!-- <p class="lead">Artist name</p> -->
+                        <h2 class="text-success">Sunflower</h2>
+                        <p class="lead">Post Malone, Swae Lee</p>
                         <?php
 
                         ?>
