@@ -51,6 +51,11 @@
                             echo "<p><b>3. How deep is your love by Bee Gees </b></p>"; 
                             echo "<p><b>4. Manila by Young Cocoa </b></p>";
                             echo "<p><b>5. The Night We Met by Lord Huron </b></p>";
+                            echo "<p><b>6. Top of the World by The Score </b></p>";
+                            echo "<p><b>7. Pleaser by Wallows </b></p>";
+                            echo "<p><b>8. Come and get Your Love by Redbone </b></p>";
+                            echo "<p><b>9. Sunflower by Post Malone, Swae Lee</b></p>";
+                            echo "<p><b>10. A Thousand Bad Times by Post Malone </b></p>";
                         ?>
                     </div>
                 </div>
