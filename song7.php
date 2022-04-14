@@ -15,7 +15,7 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
             <div class="container px-4">
-                <a class="navbar-brand" href="#page-top">MeloDicted</a>
+                <a class="navbar-brand" href="index.php">MeloDicted</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
@@ -46,7 +46,7 @@
                         <h2 class="text-success">Pleaser</h2>
                         <p class="lead">Wallows</p>
                         <?php
-                            
+
                             echo "<p> You're talking while you're fast asleep</p>";
                             echo "<p> As I walk slowly from your house </p>";
                             echo "<p> Back in your room remain the words </p>";
