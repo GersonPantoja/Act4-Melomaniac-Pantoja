@@ -19,12 +19,12 @@
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
-                        <li class="nav-item"><a class="nav-link text-light" href="song1.php">SONG 1</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="song2.php">SONG 2</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="song3.php">SONG 3</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="song4.php">SONG 4</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="song5.php">SONG 5</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="#"> <b>next -></b></a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="#"><- prev</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="#">SONG 6</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="#">SONG 7</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="#">SONG 8</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="#">SONG 9</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="#">SONG 10</a></li>
                     </ul>
                 </div>
             </div>
@@ -46,17 +46,7 @@
                         <h2 class="text-success">Song Titles</h2>
                         <!-- <p class="lead">Artist name</p> -->
                         <?php
-                            echo "<br/>";
-                            echo "<p><b>1. Habang Buhay by Zack Tabudlo </b></p>";
-                            echo "<p><b>2. Anyone by Justin Bieber </b></p>";
-                            echo "<p><b>3. How deep is your love by Bee Gees </b></p>"; 
-                            echo "<p><b>4. Manila by Young Cocoa </b></p>";
-                            echo "<p><b>5. The Night We Met by Lord Huron </b></p>";
-                            echo "<p><b>6. Top of the World by The Score </b></p>";
-                            echo "<p><b>7. Pleaser by Wallows </b></p>";
-                            echo "<p><b>8. Come and get Your Love by Redbone </b></p>";
-                            echo "<p><b>9. Sunflower by Post Malone, Swae Lee</b></p>";
-                            echo "<p><b>10. A Thousand Bad Times by Post Malone </b></p>";
+ 
                         ?>
                     </div>
                 </div>
