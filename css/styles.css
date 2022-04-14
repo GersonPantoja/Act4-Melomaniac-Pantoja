@@ -626,6 +626,7 @@ progress {
   color: #6c757d;
 }
 
+
 .container,
 .container-fluid,
 .container-xxl,
@@ -638,6 +639,7 @@ progress {
   padding-left: var(--bs-gutter-x, 0.75rem);
   margin-right: auto;
   margin-left: auto;
+
 }
 
 @media (min-width: 576px) {
