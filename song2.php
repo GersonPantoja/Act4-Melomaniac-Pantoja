@@ -21,8 +21,9 @@
                         <li class="nav-item"><a class="nav-link text-light" href="song1.php">SONG 1</a></li>
                         <li class="nav-item"><a class="nav-link text-light" href="#"><b>SONG 2</b></a></li>
                         <li class="nav-item"><a class="nav-link text-light" href="song3.php">SONG 3</a></li>
-                         <li class="nav-item"><a class="nav-link text-light" href="song4.php">SONG 4</a></li>
-                          <li class="nav-item"><a class="nav-link text-light" href="song5.php">SONG 5</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song4.php">SONG 4</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song5.php">SONG 5</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song6.php"><i>next -></i></a></li>
                     </ul>
                 </div>
             </div>

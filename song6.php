@@ -19,12 +19,12 @@
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
-                        <li class="nav-item"><a class="nav-link text-light" href="#"><- prev</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="#">SONG 6</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="#">SONG 7</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="#">SONG 8</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="#">SONG 9</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="#">SONG 10</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song5.php"><i><- prev</i></a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="#"><b>SONG 6</b></a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song7.php">SONG 7</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song8.php">SONG 8</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song9.php">SONG 9</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song10.php">SONG 10</a></li>
                     </ul>
                 </div>
             </div>
