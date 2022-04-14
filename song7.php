@@ -46,6 +46,7 @@
                         <h2 class="text-success">Pleaser</h2>
                         <p class="lead">Wallows</p>
                         <?php
+                            
                             echo "<p> You're talking while you're fast asleep</p>";
                             echo "<p> As I walk slowly from your house </p>";
                             echo "<p> Back in your room remain the words </p>";
@@ -80,7 +81,32 @@
                             echo "<p> Between depression and bliss</p>";
                             echo "<br/>";
 
+                            echo "<p> Now I see that the times don't change </p>";
+                            echo "<p> They waste away </p>";
+                            echo "<p> But I just want to sleep today </p>";
+                            echo "<p> And I don't want to talk you right now </p>";
+                            echo "<p> You say, but</p>";
+                            echo "<br/>";
 
+                            echo "<p> I'm sitting out the weekend </p>";
+                            echo "<p> Couldn't do it again </p>";
+                            echo "<p> Say you want it right now </p>";
+                            echo "<p> But I wouldn't know how </p>";
+                            echo "<p> It's something I can't do </p>";
+                            echo "<p> Then what am I supposed to? </p>";
+                            echo "<p> Quite the people pleaser </p>";
+                            echo "<p> If only I could please her</p>";
+                            echo "<br/>";
+
+                            echo "<p> I'm talking while you're next to me </p>";
+                            echo "<p> Did I ruin the moment? </p>";
+                            echo "<p> If I could tell how I feel </p>";
+                            echo "<p> Would you know what the words meant </p>";
+                            echo "<p> For sake of conversation </p>";
+                            echo "<p> Could you read the writings on my sleeve? </p>";
+                            echo "<p> Cause that's the best you're gonna get </p>";
+                            echo "<p> So maybe I had better leave </p>";
+                            echo "<p> </p>";
 
                         ?>
                     </div>
