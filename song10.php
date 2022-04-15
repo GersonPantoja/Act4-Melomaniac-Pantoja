@@ -15,7 +15,7 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
             <div class="container px-4">
-                <a style="font-family: Montserrat" class="navbar-brand" href="index.php">MeloDicted</a>
+                <a style="font-family: Montserrat" class="navbar-brand" href="index.php">Melo<b>/</b>Dicted</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div style="font-family: Montserrat" class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
